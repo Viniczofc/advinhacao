@@ -1,0 +1,2 @@
+# advinhacao
+estudando C
